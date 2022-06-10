@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "329123117724",
+    "project_id": "homeautomation-e3318",
+    "storage_bucket": "homeautomation-e3318.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329123117724:android:e378a8e6163ca0e2214b59",
+        "android_client_info": {
+          "package_name": "com.example.mqtthome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329123117724-1ttfefeu9pniepum19pj5tencp6urfj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9a9rM2HpzAwNF76TeMFMyvFSxTSUll50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329123117724-1ttfefeu9pniepum19pj5tencp6urfj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
